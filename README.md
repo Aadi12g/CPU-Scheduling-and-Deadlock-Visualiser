@@ -6,9 +6,9 @@ Demonstrates concepts related to resource management, process scheduling, and de
 
 1.**CPU Scheduling**
 
-  -Allows simulation of various CPU scheduling algorithms.
-  -Options for tracing execution or viewing statistics.
-  -Algorithms supported include First Come First Serve (FCFS), Shortest Process Next (SPN),Round Robin(RR) and Shortest Remaining Time(SRT).
+   Allows simulation of various CPU scheduling algorithms.
+   Options for tracing execution or viewing statistics.
+   Algorithms supported include First Come First Serve (FCFS), Shortest Process Next (SPN),Round Robin(RR) and Shortest Remaining Time(SRT).
 
 **Banker's Algorithm**
 
